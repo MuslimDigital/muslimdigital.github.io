@@ -2,4 +2,4 @@
 
 ### Roadmap
 
-[2018 Roadmap](https://github.com/MuslimDigital/muslimdigital.github.io/projects/1)
+[:round_pushpin: View Roadmap](https://github.com/MuslimDigital/muslimdigital.github.io/projects/1)
